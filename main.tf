@@ -7,5 +7,7 @@ ami = "ami-0b09627181c8d5778"
 instance_type = "t2.micro" 
 tags = {
 Name = "abc-server"
+environment = "abc"
+owner = "sonu"
 }
 }
